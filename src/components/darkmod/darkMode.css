@@ -1,0 +1,7 @@
+.darck-mood-icon {
+    transition: .3s ease;
+}
+.darck-mood-icon:hover {
+    transform: scale(1.2);
+    
+}
